@@ -1,0 +1,25 @@
+body{
+    color : red;
+    font-family : arial;
+    max-width: 650px;
+    margin: 0 auto;
+    padding : 0 16px;
+
+}
+footer {
+    background-color: blue;
+    padding: 16px;
+    margin: 16px;
+
+}
+input{
+    border : 1px solid #cccccc;
+    padding: 8px;    
+}
+button{
+    cursor : pointer;
+    border : 1px solid #888888;
+    background-color: #888888;
+    color :  white;
+    padding : 8px;
+}
